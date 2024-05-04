@@ -4,3 +4,7 @@ This repository features an education website which offers a comprehensive suite
 To start the website -> npm run dev 
 
 it will start both src and server
+
+here is a link to this project
+
+https://online-educational-portal-frontend.vercel.app/
